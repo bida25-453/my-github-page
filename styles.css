@@ -65,3 +65,30 @@ main a[href^="mailto:"] {
     color: rgb(255, 255, 255);
     font-weight: bold;
 }
+
+body.about-page {
+    background-image: url('https://www.expert-surfacing.com/wp-content/uploads/2022/09/Screen-Shot-2023-03-13-at-12.48.16-PM-1024x587.png');  
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: transparent;}
+
+
+    body.contact-page { 
+        background-image: url("https://www.creativemaintenance.com/assets/components/phpthumbof/cache/cmr_3x2_metallic-epoxy-flooring_2x.8e64d3cb38ff0cc29225ee9054dea9f9.jpg");
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-color: transparent;
+    }
+
+body.products-page{
+    background-image: url("https://img.freepik.com/free-vector/abstract-blue-watercolor-with-gold-glitter-background-vector_53876-128017.jpg?semt=ais_rp_progressive&w=740&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+}
